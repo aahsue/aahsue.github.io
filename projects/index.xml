@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrea AhSue</title>
-    <link>https://aahsue.github.io/</link>
-    <description>Recent content on Andrea AhSue</description>
+    <title>Projects on Andrea AhSue</title>
+    <link>https://aahsue.github.io/projects/</link>
+    <description>Recent content in Projects on Andrea AhSue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aahsue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aahsue.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Litter Bot</title>
       <link>https://aahsue.github.io/projects/litter-bot/</link>
@@ -23,15 +23,6 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://aahsue.github.io/projects/air-quality-light-bulb-indicator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://aahsue.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aahsue.github.io/about/</guid>
       <description></description>
     </item>
     
